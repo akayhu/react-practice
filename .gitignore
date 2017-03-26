@@ -1,2 +1,6 @@
 log.txt
-/example-code-practice
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+.env
